@@ -2,4 +2,4 @@ Algorithms
 =======================
 
 #Warmup
-Gem Stones - Given the list of N rocks with their compositions, display the number of gem-elements that exist in those rocks.
+* Gem Stones - Given the list of N rocks with their compositions, display the number of gem-elements that exist in those rocks.
