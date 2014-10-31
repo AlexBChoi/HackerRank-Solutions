@@ -108,12 +108,12 @@ public class Solution {
 
     /**
      * Displays number of characters present in String result.
-     * @param result
-     * @param STDOUT
+     * @param result StringBuilder holding characters
+     * @param STDOUT String to display output
      */
     public static void displayResult(StringBuilder result, String STDOUT) {
         STDOUT = result.toString();
-        System.out.println(STDOUT.length());
+        System.out.println("Number of elements that are common in each rock: " + STDOUT.length()); //comment out and output STDOUT.length() only to pass default test case
     }
 
     public static void main(String[] args) {
